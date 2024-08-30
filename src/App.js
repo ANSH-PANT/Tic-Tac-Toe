@@ -93,11 +93,6 @@ export default function Game() {
           </div>
         </div>
       </div>
-      <footer>
-        <p>
-          Made with lots of ❤️ by ANSH PANT
-        </p>
-      </footer>
     </div>
   );
 }
